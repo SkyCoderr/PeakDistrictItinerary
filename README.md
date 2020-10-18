@@ -9,7 +9,7 @@
     * Hotel
     
 ### DAY 2
-  * **Route**
+  * **[Route](https://www.google.co.uk/maps/dir/Blue+John+Cavern,+Cross+Street,+Castleton,+Hope+Valley/Castleton/Peveril+Castle,+Market+Place,+Castleton,+Hope+Valley/@53.3429476,-1.8015005,15z/data=!3m1!4b1!4m20!4m19!1m5!1m1!1s0x487a2cfce55ac947:0x5fde23ecf9150036!2m2!1d-1.8036044!2d53.3455317!1m5!1m1!1s0x487a2cfa962e5ddd:0x8d4e94fef5feec71!2m2!1d-1.7908184!2d53.3394204!1m5!1m1!1s0x487a2cfbbf85d75d:0xcf3584df202772cc!2m2!1d-1.7769453!2d53.3407445!3e2)**
     * Hotel -  - [Castleton](https://www.google.co.uk/maps/place/Castleton,+Hope+Valley/@53.3428143,-1.7800026,16z/data=!3m1!4b1!4m5!3m4!1s0x487a2d06ac8b9919:0x1cdab5b3654820ed!8m2!3d53.3436814!4d-1.7765105)
     * [Castleton](https://www.google.co.uk/maps/place/Castleton,+Hope+Valley/@53.3428143,-1.7800026,16z/data=!3m1!4b1!4m5!3m4!1s0x487a2d06ac8b9919:0x1cdab5b3654820ed!8m2!3d53.3436814!4d-1.7765105) - walk - [Blue John Cavern](https://www.google.co.uk/maps/place/Blue+John+Cavern/@53.3402227,-1.7628878,12.88z/data=!4m13!1m7!3m6!1s0x487a2d06ac8b9919:0x1cdab5b3654820ed!2sCastleton,+Hope+Valley!3b1!8m2!3d53.3436814!4d-1.7765105!3m4!1s0x487a2cfce55ac947:0x5fde23ecf9150036!8m2!3d53.3455301!4d-1.8036461)
     * [Blue John Cavern](https://www.google.co.uk/maps/place/Blue+John+Cavern/@53.3402227,-1.7628878,12.88z/data=!4m13!1m7!3m6!1s0x487a2d06ac8b9919:0x1cdab5b3654820ed!2sCastleton,+Hope+Valley!3b1!8m2!3d53.3436814!4d-1.7765105!3m4!1s0x487a2cfce55ac947:0x5fde23ecf9150036!8m2!3d53.3455301!4d-1.8036461) - walk - [Peveril Castle](https://www.google.co.uk/maps/place/Peveril+Castle/@53.3407445,-1.779134,17z/data=!3m1!4b1!4m5!3m4!1s0x487a2cfbbf85d75d:0xcf3584df202772cc!8m2!3d53.3407445!4d-1.7769453)
@@ -17,8 +17,8 @@
     * Hotel
     
 ### DAY 3
-  * **Route**
+  * **[Route](https://www.google.co.uk/maps/dir/Bamford+Edge,+Ashopton+Road,+Hope+Valley/Ladybower+Reservoir,+Hope+Valley/Derwent+Edge,+Hope+Valley/@53.3791576,-1.7400605,13z/data=!3m1!4b1!4m20!4m19!1m5!1m1!1s0x487a2b23c15d4bfd:0xcef814ffbcec406c!2m2!1d-1.6897643!2d53.3608583!1m5!1m1!1s0x487bd3561d4a77cb:0x487bd4af643fad9b!2m2!1d-1.700359!2d53.3690785!1m5!1m1!1s0x487bd4c1d5650371:0xc452f4e0648de4c!2m2!1d-1.707!2d53.4!3e0)**
     * Hotel -  - [Bamford Edge](https://www.google.co.uk/maps/place/Bamford+Edge/@53.3608583,-1.691953,17z/data=!3m1!4b1!4m5!3m4!1s0x487a2b23c15d4bfd:0xcef814ffbcec406c!8m2!3d53.3608583!4d-1.6897643)
-    * [Bamford Edge](https://www.google.co.uk/maps/place/Bamford+Edge/@53.3608583,-1.691953,17z/data=!3m1!4b1!4m5!3m4!1s0x487a2b23c15d4bfd:0xcef814ffbcec406c!8m2!3d53.3608583!4d-1.6897643) - 2 min by car - [Ladybower Reservoir]()
-    * [Ladybower Reservoir]() - 15 min by car - [Derwent Edge](https://www.google.co.uk/maps/place/Derwent+Edge/@53.3999992,-1.7157548,15z/data=!3m1!4b1!4m5!3m4!1s0x487bd4c1d5650371:0xc452f4e0648de4c!8m2!3d53.4!4d-1.707)
+    * [Bamford Edge](https://www.google.co.uk/maps/place/Bamford+Edge/@53.3608583,-1.691953,17z/data=!3m1!4b1!4m5!3m4!1s0x487a2b23c15d4bfd:0xcef814ffbcec406c!8m2!3d53.3608583!4d-1.6897643) - 2 min by car - [Ladybower Reservoir](https://www.google.co.uk/maps/place/Ladybower+Reservoir/@53.3841063,-1.7704526,13z/data=!3m1!4b1!4m5!3m4!1s0x487bd3561d4a77cb:0x487bd4af643fad9b!8m2!3d53.3690785!4d-1.700359)
+    * [Ladybower Reservoir](https://www.google.co.uk/maps/place/Ladybower+Reservoir/@53.3841063,-1.7704526,13z/data=!3m1!4b1!4m5!3m4!1s0x487bd3561d4a77cb:0x487bd4af643fad9b!8m2!3d53.3690785!4d-1.700359) - 15 min by car - [Derwent Edge](https://www.google.co.uk/maps/place/Derwent+Edge/@53.3999992,-1.7157548,15z/data=!3m1!4b1!4m5!3m4!1s0x487bd4c1d5650371:0xc452f4e0648de4c!8m2!3d53.4!4d-1.707)
     * [Derwent Edge](https://www.google.co.uk/maps/place/Derwent+Edge/@53.3999992,-1.7157548,15z/data=!3m1!4b1!4m5!3m4!1s0x487bd4c1d5650371:0xc452f4e0648de4c!8m2!3d53.4!4d-1.707) - 2h9m by car - Coventry
